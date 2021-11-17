@@ -10,18 +10,9 @@
         <module name="ArticleService.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
-      <module name="Article" target="16" />
-      <module name="article" target="11" />
-      <module name="article.main" target="11" />
-      <module name="article.test" target="11" />
-      <module name="Comment" target="16" />
-      <module name="comment.main" target="11" />
-      <module name="comment.test" target="11" />
-      <module name="CommentService" target="11" />
-      <module name="images.main" target="11" />
-      <module name="images.test" target="11" />
-      <module name="ImageService" target="11" />
+    <bytecodeTargetLevel>
+      <module name="ArticleSevice.main" target="11" />
+      <module name="ArticleSevice.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
