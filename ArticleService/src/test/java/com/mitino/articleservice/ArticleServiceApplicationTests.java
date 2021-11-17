@@ -1,10 +1,10 @@
-package com.mitino.images;
+package com.mitino.articleservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ImagesApplicationTests {
+class ArticleServiceApplicationTests {
 
     @Test
     void contextLoads() {

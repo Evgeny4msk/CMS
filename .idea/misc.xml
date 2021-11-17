@@ -8,7 +8,7 @@
     <file type="web" url="file://$PROJECT_DIR$/CommentService" />
     <file type="web" url="file://$PROJECT_DIR$/ImageService" />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -1,13 +1,13 @@
-package com.mitino.comment;
+package com.mitino.articleservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CommentServiceApplication {
+public class ArticleServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CommentServiceApplication.class, args);
+        SpringApplication.run(ArticleServiceApplication.class, args);
     }
 
 }

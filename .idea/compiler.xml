@@ -7,12 +7,21 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
         </processorPath>
-        <module name="comment.main" />
+        <module name="ArticleService.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11">
       <module name="Article" target="16" />
+      <module name="article" target="11" />
+      <module name="article.main" target="11" />
+      <module name="article.test" target="11" />
       <module name="Comment" target="16" />
+      <module name="comment.main" target="11" />
+      <module name="comment.test" target="11" />
+      <module name="CommentService" target="11" />
+      <module name="images.main" target="11" />
+      <module name="images.test" target="11" />
+      <module name="ImageService" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
